@@ -19,4 +19,4 @@
 [![Deno Badge](https://img.shields.io/badge/-Deno-white?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#) 
 <br />
 <br />
-![Emanuels's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzemanuel&theme=dark&show_icons=true)
+![Emanuels's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzemanuelj&theme=dark&show_icons=true)
