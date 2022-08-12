@@ -19,4 +19,5 @@
 [![Deno Badge](https://img.shields.io/badge/-Deno-white?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#) 
 <br />
 <br />
-![Emanuels's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzemanuelj&theme=dark&show_icons=true)
+| <a href="https://github.com/itzemanuelj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itzemanuelj&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Itzemanuelj github stats" /></a> | <a href="https://github.com/itzemanuelj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzemanuelj&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
