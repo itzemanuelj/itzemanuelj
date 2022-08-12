@@ -17,7 +17,6 @@
 [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Deno Badge](https://img.shields.io/badge/-Deno-white?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#) 
-[![Java Badge](https://img.shields.io/badge/-Java-4f7d9c?&logo=Java&logoColor=f0931b&style=for-the-badge&labelColor=black)](#)
-
 <br />
 <br />
+![Emanuels's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzemanuel&theme=dark&show_icons=true)
