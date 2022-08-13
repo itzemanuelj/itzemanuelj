@@ -21,3 +21,4 @@
 <br />
 | <a href="https://github.com/itzemanuelj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itzemanuelj&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Itzemanuelj github stats" /></a> | <a href="https://github.com/itzemanuelj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzemanuelj&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itzemanuelj&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
