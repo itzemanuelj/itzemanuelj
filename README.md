@@ -16,7 +16,6 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Deno Badge](https://img.shields.io/badge/-Deno-white?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#) 
 <br />
 <br />
 | <a href="https://github.com/itzemanuelj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itzemanuelj&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Itzemanuelj github stats" /></a> | <a href="https://github.com/itzemanuelj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzemanuelj&layout=compact&theme=dracula&hide_border=true" /></a> |
