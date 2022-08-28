@@ -1,4 +1,4 @@
-# ᴇᴍᴀɴᴜᴇʟ ᴊ
+# Emanuel
 
 <!-- Add Upddtaed Logo -->
 
