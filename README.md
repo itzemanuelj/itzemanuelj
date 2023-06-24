@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on <br>Zero To Mastery Academy<br>Become a Web Developer (Fullstack)<br>Curriculum
 
 
