@@ -9,10 +9,9 @@ Hello! I'm Justin Jones, currently pursuinga role in Help Desk field. I have a p
 - **Technical Support**
 - **Customer Service**
 - **Troubleshooting**
-- **Windows & Mac OS**
-- **Network Administration**
+- **Windows,Linux & Mac OS**
 - **Active Directory**
-- **Microsoft Office Suite**
+- **Microsoft Azure**
 - **Remote Desktop Tools**
 
 ## 🌱 Current Projects & Interests
@@ -22,9 +21,6 @@ I'm always looking to expand my knowledge and skills. Currently, I'm focusing on
 ## 📫 Contact
 
 Feel free to reach out to me if you have any questions or if you want to connect!
-
-- **Email:** [itzemanuelj@gmail.com](mailto:itzemanuelj.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/itzemanuelj/)
 
 ## 🌟 Fun Facts
 
@@ -42,11 +38,5 @@ Feel free to reach out to me if you have any questions or if you want to connect
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Itzemanuelj&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Itzemanuelj)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itzemanuelj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
