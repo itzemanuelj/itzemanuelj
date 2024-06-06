@@ -1,11 +1,40 @@
-# About Me:
+# About Me
 
+## 👨‍💻 Justin Jones
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itzemanuelj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Itzemanuelj) 
+Hello! I'm Justin Jones, currently pursuinga role in Help Desk field. I have a passion for technology and problem-solving, which drives my commitment to providing excellent support and solutions to end-users.
+
+## 🛠️ Skills & Technologies
+
+- **Technical Support**
+- **Customer Service**
+- **Troubleshooting**
+- **Windows & Mac OS**
+- **Network Administration**
+- **Active Directory**
+- **Microsoft Office Suite**
+- **Remote Desktop Tools**
+
+## 🌱 Current Projects & Interests
+
+I'm always looking to expand my knowledge and skills. Currently, I'm focusing on computer networking . I also have a keen interest in learning new programming languages and diving into the world of automation.
+
+## 📫 Contact
+
+Feel free to reach out to me if you have any questions or if you want to connect!
+
+- **Email:** [itzemanuelj@gmail.com](mailto:itzemanuelj.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/itzemanuelj/)
+
+## 🌟 Fun Facts
+
+- **Hobbies:** I like to collect funko pops.
+- **Favorite Quote:** "The only way to do great work is to love what you do." – Steve Jobs
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Itzemanuelj&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Itzemanuelj&theme=dark&hide_border=true)<br/>
@@ -19,8 +48,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Itzemanuelj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Itzemanuelj&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
