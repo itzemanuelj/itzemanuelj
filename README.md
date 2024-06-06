@@ -33,8 +33,7 @@ Feel free to reach out to me if you have any questions or if you want to connect
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzemanuelj&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzemanuelj&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Itzemanuelj&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
