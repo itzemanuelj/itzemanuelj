@@ -31,13 +31,13 @@ Feel free to reach out to me if you have any questions or if you want to connect
 
 ## 🌟 Fun Facts
 
-- **Hobbies:** I like to collect funko pops.
-- **Favorite Quote:** "The only way to do great work is to love what you do." – Steve Jobs
+- **Hobbies:** Collecting funko pops.
+- **Favorite Quote:** “We are stuck with technology when what we really want is just stuff that works.” – Douglas Adams
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
+![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PY](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzemanuelj&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
