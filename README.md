@@ -1,8 +1,13 @@
 ## Welcome , I'm Justin Emanuel Jones
 
 ## IT Projects
-
+[Link text Here](https://link-url-here.org)
+[Link text Here](https://link-url-here.org)
+[Link text Here](https://link-url-here.org)
 ## Certifications
+[CompTIA ITF+](https://link-url-here.org) 
+[CompTIA A+](https://link-url-here.org)
+[Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 
 ## 🛠️ Skills & Technologies
