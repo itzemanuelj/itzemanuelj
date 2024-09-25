@@ -1,23 +1,26 @@
-## Welcome , I'm Justin Emanuel Jones
+## Hi, I'm Justin Emanuel Jones
 
 ## 🗂️ IT Projects
 [Link text Here](https://link-url-here.org)
 
 
 ## 📜Certifications
-[CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) 
-[CompTIA A+](https://link-url-here.org)
+[CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
+[CompTIA A+](https://link-url-here.org)\
 [Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 ## 📝IT Homelab Blog
 [How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
+\
 [How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
 
 ## 🛠️ Skills & Technologies
 - **Customer Service**
 - **Troubleshooting**
-- **Microsoft Azure**
-- **Remote Desktop Tools**
+- **Ticket Management**
+- **Software Installation**
+- **Hardware Installation**
+
 
 
 # :computer: Tools I Use
