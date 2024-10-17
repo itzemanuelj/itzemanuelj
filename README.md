@@ -1,4 +1,4 @@
-## Hi, I'm [Justin Emanuel Jones]([https://example.com](https://www.linkedin.com/in/itzemanuelj/)  an IT Professional
+## Hi, I'm [Justin Emanuel Jones]([https://example.com](https://www.linkedin.com/in/itzemanuelj/))  an IT Professional
 
 ## 🗂️ IT Projects
 [Link text Here](https://link-url-here.org)
