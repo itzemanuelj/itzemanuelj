@@ -1,24 +1,17 @@
 ## Hi, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an IT Professional
 
+## 📝IT Homelabs
+[How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
 
-
-
-
- an IT Professional
+[How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
 
 ## 🗂️ IT Projects
 [Link text Here](https://link-url-here.org)
-
 
 ## 📜Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
 [CompTIA A+](https://link-url-here.org)\
 [Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-
-## 📝IT Homelab Blog
-[How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
-\
-[How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
 
 ## 🛠️ Skills & Technologies
 - **Customer Service**
@@ -35,9 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
