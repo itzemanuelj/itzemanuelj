@@ -1,6 +1,6 @@
 ## Hi, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an IT Professional
 
-## 📝IT Homelabs
+## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
 #### osTicket (Help Desk Ticketing System)
 [Link text Here](https://link-url-here.org)
 [Link text Here](https://link-url-here.org)
@@ -10,7 +10,7 @@
 [Link text Here](https://link-url-here.org)
 [Link text Here](https://link-url-here.org)
 
-## 🗂️ IT Projects
+## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects
 [Link text Here](https://link-url-here.org)
 [Link text Here](https://link-url-here.org)
 
@@ -20,12 +20,12 @@
 
 [How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
 
-## 📜Certifications
+## <img src="/Images/Certs.png"  width="30" height="30"> Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
 [CompTIA A+](https://link-url-here.org)\
 [Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
-## 🛠️ Skills & Technologies
+## <img src="/Images/Skills.png"  width="30" height="30"> Skills & Technologies
 - **Customer Service**
 - **Troubleshooting**
 - **Ticket Management**
