@@ -1,4 +1,4 @@
-## Hello, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an [IT Professional](https://itzemanuelj.com/)
+## <img src="/Images/Hello.png"  width="30" height="30">Hello, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an [IT Professional](https://itzemanuelj.com/)
 
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
 #### osTicket (Help Desk Ticketing System)
