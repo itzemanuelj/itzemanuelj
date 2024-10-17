@@ -1,7 +1,7 @@
 ## Hi, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an IT Professional
 
 ## 📝IT Homelabs
-#### osTicket
+#### osTicket (Help Desk Ticketing System)
 [Link text Here](https://link-url-here.org)
 [Link text Here](https://link-url-here.org)
 
