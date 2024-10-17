@@ -56,7 +56,7 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://threads.net/itzemanuelj)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/itzemanuelj)
 
-## 🌐 Website & Blog
+## <img src="/Images/WebsiteBlog.png"  width="30" height="30"> Website & Blog
 [![website](https://img.shields.io/badge/itzemanuelj\.com-2F5267?style=for-the-badge&logo=windows&logoColor=white)](https://itzemanuelj.com/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@itzemanuelj)
 
