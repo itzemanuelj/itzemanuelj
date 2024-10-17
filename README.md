@@ -1,10 +1,9 @@
 ## Hi, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an IT Professional
 
 ## 📝IT Homelabs
-#osTicket
+#### osTicket
 
-#Microsoft Azure 
-**Customer Service**
+#### Microsoft Azure 
 
 [How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
 
