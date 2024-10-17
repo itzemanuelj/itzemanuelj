@@ -4,13 +4,15 @@
 #### osTicket
 
 #### Microsoft Azure 
----
-[How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
-
-[How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
 
 ## 🗂️ IT Projects
 [Link text Here](https://link-url-here.org)
+
+---
+
+[How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
+
+[How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
 
 ## 📜Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
