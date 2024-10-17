@@ -1,20 +1,21 @@
-## Hi, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an IT Professional
+## Hello, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an [IT Professional](https://itzemanuelj.com/)
 
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
 #### osTicket (Help Desk Ticketing System)
-[Link text Here](https://link-url-here.org)
-[Link text Here](https://link-url-here.org)
+- [Link text Here ](https://link-url-here.org)
+- [Link text Here ](https://link-url-here.org)
 
 
 #### Microsoft Azure 
-[Link text Here](https://link-url-here.org)
-[Link text Here](https://link-url-here.org)
+- [Link text Here ](https://link-url-here.org)
+- [Link text Here ](https://link-url-here.org)
 
 ## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects
-[Link text Here](https://link-url-here.org)
-[Link text Here](https://link-url-here.org)
+- [Link text Here ](https://link-url-here.org)
+- [Link text Here ](https://link-url-here.org)
 
 ---
+
 
 [How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
 
