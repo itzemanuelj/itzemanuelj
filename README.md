@@ -1,7 +1,7 @@
 ## <img src="/Images/Hello.png"  width="30" height="30"> Hello, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an [IT Professional](https://itzemanuelj.com/)
 
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
-#### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="30" height="30">
+#### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="20" height="20">
 - [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="17" height="17">
 ](https://link-url-here.org)
 - [osTicket: Post-Installation Configuration <img src="/Images/osTicket.png"  width="17" height="17">
@@ -9,7 +9,7 @@
 - [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="17" height="17">
  ](https://link-url-here.org)
 
-#### Microsoft Azure 
+#### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://link-url-here.org)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
