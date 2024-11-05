@@ -12,7 +12,7 @@
 #### Microsoft Azure 
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://link-url-here.org)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="10" height="10">
+- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
 ](https://link-url-here.org)
 
 ## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects 
