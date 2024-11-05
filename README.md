@@ -2,18 +2,24 @@
 
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
 #### osTicket (Help Desk Ticketing System)
-- [Link text Here ](https://link-url-here.org)
-- [Link text Here ](https://link-url-here.org)
-
+- [osTicket: Prerequisites and Installation
+](https://link-url-here.org)
+- [osTicket: Post-Installation Configuration
+](https://link-url-here.org)
+- [osTicket: Ticket Lifecycle Examples
+ ](https://link-url-here.org)
 
 #### Microsoft Azure 
-- [Link text Here ](https://link-url-here.org)
-- [Link text Here ](https://link-url-here.org)
+- [Configuring Active Directory within Azure VMs
+](https://link-url-here.org)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols
+](https://link-url-here.org)
 
 ## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects
-- [Link text Here ](https://link-url-here.org)
-- [Link text Here ](https://link-url-here.org)
-
+- [Ansible Automater ](https://link-url-here.org)
+- [Securing a Linux System ](https://link-url-here.org)
+- [WordPress With Docker  ](https://link-url-here.org)
+- [Web & DNS Server  ](https://link-url-here.org)
 ---
 
 
