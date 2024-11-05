@@ -16,10 +16,10 @@
 ](https://link-url-here.org)
 
 ## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects 
-- [Ansible Automater ](https://link-url-here.org) <img src="/Images/Terminal.png"  width="17" height="17">
-- [Securing a Linux System ](https://link-url-here.org) <img src="/Images/Linux.png"  width="17" height="17">
-- [WordPress With Docker  ](https://link-url-here.org) <img src="/Images/WordPress.png"  width="17" height="17">
-- [Web & DNS Server  ](https://link-url-here.org) <img src="/Images/Server.png"  width="17" height="17">
+- [Ansible Automater ](https://link-url-here.org) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
+- [Securing a Linux System ](https://link-url-here.org) <img src="/Images/Linux.png"  width="17" height="17"><img src="/Images/Lock.png"  width="17" height="17">
+- [WordPress With Docker  ](https://link-url-here.org) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
+- [Web & DNS Server  ](https://link-url-here.org) <img src="/Images/Web.png"  width="17" height="17"><img src="/Images/Server.png"  width="17" height="17">
 
 ## <img src="/Images/Medium.png"  width="30" height="30"> Medium IT  Articles
 
