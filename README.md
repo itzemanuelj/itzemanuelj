@@ -23,7 +23,7 @@
 ---
 
 
-[How to Create a Windows 11 Bootable USB Drive <img src="/Images/Flashdrive.png"  width="17" height="17">](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
+[How to Create a Windows 11 Bootable USB Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
 
 [How to Install Windows (7,8,10,11) using Vitrualbox <img src="/Images/VBox.png"  width="17" height="17">](https://medium.com/@itzemanuelj/)
 
