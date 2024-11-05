@@ -12,20 +12,20 @@
 #### Microsoft Azure 
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://link-url-here.org)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
+- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="10" height="10">
 ](https://link-url-here.org)
 
-## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects
-- [Ansible Automater ](https://link-url-here.org)
-- [Securing a Linux System ](https://link-url-here.org)
-- [WordPress With Docker  ](https://link-url-here.org)
-- [Web & DNS Server  ](https://link-url-here.org)
+## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects 
+- [Ansible Automater ](https://link-url-here.org) <img src="/Images/Terminal.png"  width="17" height="17">
+- [Securing a Linux System ](https://link-url-here.org) <img src="/Images/Linux.png"  width="17" height="17">
+- [WordPress With Docker  ](https://link-url-here.org) <img src="/Images/WordPress.png"  width="17" height="17">
+- [Web & DNS Server  ](https://link-url-here.org) <img src="/Images/Server.png"  width="17" height="17">
 ---
 
 
-[How to Create a Windows 11 Bootable USB Drive](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
+[How to Create a Windows 11 Bootable USB Drive <img src="/Images/Flashdrive.png"  width="17" height="17">](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
 
-[How to Install Windows (7,8,10,11) using Vitrualbox](https://medium.com/@itzemanuelj/)
+[How to Install Windows (7,8,10,11) using Vitrualbox <img src="/Images/VBox.png"  width="17" height="17">](https://medium.com/@itzemanuelj/)
 
 ## <img src="/Images/Certs.png"  width="30" height="30"> Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
