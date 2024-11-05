@@ -21,7 +21,7 @@
 - [WordPress With Docker  ](https://link-url-here.org) <img src="/Images/WordPress.png"  width="17" height="17">
 - [Web & DNS Server  ](https://link-url-here.org) <img src="/Images/Server.png"  width="17" height="17">
 
-## <img src="/Images/Medium.png"  width="30" height="30"> Medium Articles
+## <img src="/Images/Medium.png"  width="30" height="30"> Medium IT  Articles
 
 [How to Create a Windows 11 Bootable USB Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https://medium.com/@itzemanuelj/how-to-create-a-windows-11-bootable-usb-drive-a-step-by-step-guide-a0f9e364ad0f)
 
