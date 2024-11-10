@@ -3,17 +3,17 @@
 ## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
 #### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="20" height="20">
 - [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="17" height="17">
-](https://link-url-here.org)
+](https://github.com/itzemanuelj/osTicket-Prerequisites-and-Installation)
 - [osTicket: Post-Installation Configuration <img src="/Images/osTicket.png"  width="17" height="17">
-](https://link-url-here.org)
+](https://github.com/itzemanuelj/osTicket-Post-Installation-Configuration)
 - [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="17" height="17">
- ](https://link-url-here.org)
+ ](https://github.com/itzemanuelj/osTicket-Ticket-Lifecycle-Examples)
 
 #### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
-](https://link-url-here.org)
+](https://github.com/itzemanuelj/Configuring-Active-Directory-within-Azure-VMs)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
-](https://link-url-here.org)
+](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 ## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects 
 - [Ansible Automater ](https://github.com/itzemanuelj/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
