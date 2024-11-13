@@ -23,9 +23,9 @@
 
 ## <img src="/Images/Medium.png"  width="30" height="30"> Medium IT  Articles
 
-[Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https:)
+[Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
 
-[Creating a Vitural Machine Using Azure <img src="/Images/VBox.png"  width="17" height="17">](https:)
+[Creating a Vitural Machine Using Azure <img src="/Images/VBox.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
 
 ## <img src="/Images/Certs.png"  width="30" height="30"> Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
