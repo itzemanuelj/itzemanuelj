@@ -1,5 +1,8 @@
 ## <img src="/Images/Hello.png"  width="30" height="30"> Hello, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an [IT Professional](https://itzemanuelj.com/)
 
+## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
+
+
 #### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
 - [Creating a Vitural Machine Using Azure <img src="/Images/VBox.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
@@ -7,7 +10,6 @@
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
-## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
 #### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="20" height="20">
 - [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/osTicket-Prerequisites-and-Installation)
@@ -16,17 +18,17 @@
 - [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="17" height="17">
  ](https://github.com/itzemanuelj/osTicket-Ticket-Lifecycle-Examples)
 
-## <img src="/Images/Projects.png"  width="30" height="30"> IT Projects 
+#### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
+- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
+
+## <img src="/Images/Linux.png"  width="30" height="30"> Linux SysAdmin Projects 
 - [Ansible Automater ](https://github.com/itzemanuelj/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
 - [Securing a Linux System ](https://github.com/itzemanuelj/Securing-and-Hardening-a-Linux-System) <img src="/Images/Linux.png"  width="17" height="17"><img src="/Images/Lock.png"  width="17" height="17">
 - [WordPress With Docker  ](https://github.com/itzemanuelj/WordPress-With-Docker) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
 - [Web & DNS Server  ](https://github.com/itzemanuelj/Web-DNS-Server) <img src="/Images/Web.png"  width="20" height="20"><img src="/Images/Server.png"  width="17" height="17">
 
-## <img src="/Images/Medium.png"  width="30" height="30"> Other IT  Projects
 
-[Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
-
-## <img src="/Images/Certs.png"  width="30" height="30"> Certifications
+## <img  src="/Images/Certs.png" width="30" height="30"> Certifications
 [CompTIA ITF+](https://www.certmetrics.com/comptia/public/verification.aspx?code=NQDDM4V82Q9PV0KK) \
 [CompTIA A+](https://link-url-here.org)\
 [Google IT Support Fundamentals](https://www.coursera.org/account/accomplishments/professional-cert/GEGADS6KWKX5?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)\
@@ -38,7 +40,6 @@
 - **Ticket Management**
 - **Software Installation**
 - **Hardware Installation**
-
 
 
 ## <img src="/Images//ToolsIcon.png"  width="30" height="30"> Tools I Use
