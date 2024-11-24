@@ -6,9 +6,16 @@
 - [Creating a Vitural Machine Using Azure<img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Configuring-Active-Directory-within-Azure-VMs)
-- [Network File Shares and Permissions with Active Directory <img src="/Images/Folder.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
+
+
+
+- [Network File Shares and Permissions with Active Directory <img src="Images/Folder.png" width="17" height="17" alt="Folder Icon">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
+
+
+
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/Folder.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+
 
 #### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="20" height="20">
 - [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="20" height="20">
