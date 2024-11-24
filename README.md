@@ -9,11 +9,11 @@
 
 
 
-- [Network File Shares and Permissions with Active Directory <img src="Images/Folder.png" width="17" height="17" alt="Folder Icon">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Network File Shares and Permissions with Active Directory <img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
 
 
 
-- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/Folder.png"  width="17" height="17">
+- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
@@ -26,7 +26,7 @@
  ](https://github.com/itzemanuelj/osTicket-Ticket-Lifecycle-Examples)
 
 #### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
-- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="20" height="20">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
+- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
 
 ## <img src="/Images/Linux.png"  width="30" height="30"> Linux SysAdmin Projects 
 - [Ansible Automater ](https://github.com/itzemanuelj/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
