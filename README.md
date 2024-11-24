@@ -13,7 +13,7 @@
 
 
 
-- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/NFS.png"  width="17" height="17">
+- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/NSG.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
