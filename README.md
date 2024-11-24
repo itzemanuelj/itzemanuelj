@@ -6,16 +6,16 @@
 - [Creating a Vitural Machine Using Azure<img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Configuring-Active-Directory-within-Azure-VMs)
-- [Network File Shares and Permissions with Active Directory <img src="/Images/Folder.png"  width="27" height="27">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/Folder.png"  width="27" height="27">
+- [Network File Shares and Permissions with Active Directory <img src="/Images/Folder.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/Folder.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
-#### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="27" height="27">
-- [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="27" height="27">
+#### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="20" height="20">
+- [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/osTicket-Prerequisites-and-Installation)
-- [osTicket: Post-Installation Configuration <img src="/Images/osTicket.png"  width="27" height="27">
+- [osTicket: Post-Installation Configuration <img src="/Images/osTicket.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/osTicket-Post-Installation-Configuration)
-- [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="27" height="27">
+- [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="17" height="17">
  ](https://github.com/itzemanuelj/osTicket-Ticket-Lifecycle-Examples)
 
 #### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
