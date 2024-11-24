@@ -9,11 +9,11 @@
 
 
 
-- [Network File Shares and Permissions with Active Directory <img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
+- [Network File Shares and Permissions with Active Directory <img src="/Images/Folder.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
 
 
 
-- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
+- [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/Folder.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
