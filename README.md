@@ -6,9 +6,9 @@ Install and Configure the File Server Role
 
 #### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
 - [Creating a Vitural Machine Using Azure <img src="/Images/VBox.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
-- [Network File Shares and Permissions with Active Directory <img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Configuring-Active-Directory-within-Azure-VMs)
+- [Network File Shares and Permissions with Active Directory <img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
