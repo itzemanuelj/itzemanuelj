@@ -11,11 +11,11 @@
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 #### osTicket (Help Desk Ticketing System) <img src="/Images/osTicket.png"  width="20" height="20">
-- [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="17" height="17">
+- [osTicket: Prerequisites and Installation <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/itzemanuelj/osTicket-Prerequisites-and-Installation)
-- [osTicket: Post-Installation Configuration <img src="/Images/osTicket.png"  width="17" height="17">
+- [osTicket: Post-Installation Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/itzemanuelj/osTicket-Post-Installation-Configuration)
-- [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="17" height="17">
+- [osTicket: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/itzemanuelj/osTicket-Ticket-Lifecycle-Examples)
 
 #### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
