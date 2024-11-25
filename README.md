@@ -1,6 +1,6 @@
 ## <img src="/Images/Hello.png"  width="30" height="30"> Hello, I'm [Justin Emanuel Jones](https://www.linkedin.com/in/itzemanuelj) an [IT Professional](https://itzemanuelj.com/)
 
-## <img src="/Images/Labs.png"  width="30" height="30"> IT Homelabs
+## <img src="/Images/Labs.png"  width="30" height="30"> IT HomeLabs
 
 #### Microsoft Azure <img src="/Images/AD.png"  width="20" height="20"> 
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
