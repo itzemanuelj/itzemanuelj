@@ -17,7 +17,7 @@
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
-#### Help Desk Ticketing Systems <img src="/Images/osTicket.png"  width="20" height="20">
+#### Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
 - [Jira: Service Level Agreement Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ]()
 - [Jira: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
