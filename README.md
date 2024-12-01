@@ -21,7 +21,7 @@
 - [Jira: Service Level Agreement Configuration <img src="/Images/osTicket.png"  width="20" height="20">
 ](https://github.com/itzemanuelj/Jira-Service-Level-Agreement-Configuration)
 - [Jira: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
- ]()
+ ](https://github.com/itzemanuelj/Jira-Ticket-Lifecycle-Examples)
 
 #### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
 - [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
