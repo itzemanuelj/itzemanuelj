@@ -19,7 +19,7 @@
 
 #### Jira Service Management Help Desk <img src="/Images/osTicket.png"  width="20" height="20">
 - [Jira: Service Level Agreement Configuration <img src="/Images/osTicket.png"  width="20" height="20">
-]()
+](https://github.com/itzemanuelj/Jira-Service-Level-Agreement-Configuration)
 - [Jira: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ]()
 
