@@ -23,7 +23,7 @@
 - [WordPress With Docker  ](https://github.com/itzemanuelj/WordPress-With-Docker) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
 - [Web & DNS Server  ](https://github.com/itzemanuelj/Web-DNS-Server) <img src="/Images/Web.png"  width="20" height="20"><img src="/Images/Server.png"  width="17" height="17">
 
-
+---
 #### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
 - [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
 
