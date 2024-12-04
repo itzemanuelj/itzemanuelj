@@ -6,13 +6,7 @@
 - [Creating a Vitural Machine Using Azure <img src="/Images/AD.png"  width="17" height="17">](https://github.com/itzemanuelj/Creating-a-Virtual-Machine-Using-Azure)
 - [Configuring Active Directory within Azure VMs <img src="/Images/AD.png"  width="17" height="17">
 ](https://github.com/itzemanuelj/Configuring-Active-Directory-within-Azure-VMs)
-
-
-
 - [Network File Shares and Permissions with Active Directory <img src="/Images/NFS.png"  width="17" height="17">](https://github.com/itzemanuelj/-Network-File-Shares-and-Permissions-with-Active-Directory)
-
-
-
 - [Network Security Groups (NSGs) and Inspecting Network Protocols <img src="/Images/NSG.png"  width="22" height="22">
 ](https://github.com/itzemanuelj/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
@@ -23,14 +17,15 @@
 - [Jira: Ticket Lifecycle Examples <img src="/Images/osTicket.png"  width="20" height="20">
  ](https://github.com/itzemanuelj/Jira-Ticket-Lifecycle-Examples)
 
-#### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
-- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
-
-## <img src="/Images/Linux.png"  width="30" height="30"> Linux SysAdmin Projects 
+## <img src="/Images/Linux.png"  width="30" height="30"> Linux HomeLabs 
 - [Ansible Automater ](https://github.com/itzemanuelj/Ansible-Automater) <img src="/Images/Linux.png"  width="17" height="17"> <img src="/Images/Terminal.png"  width="17" height="17">
 - [Securing a Linux System ](https://github.com/itzemanuelj/Securing-and-Hardening-a-Linux-System) <img src="/Images/Linux.png"  width="17" height="17"><img src="/Images/Lock.png"  width="17" height="17">
 - [WordPress With Docker  ](https://github.com/itzemanuelj/WordPress-With-Docker) <img src="/Images/WordPress.png"  width="17" height="17"><img src="/Images/Docker.png"  width="22" height="22">
 - [Web & DNS Server  ](https://github.com/itzemanuelj/Web-DNS-Server) <img src="/Images/Web.png"  width="20" height="20"><img src="/Images/Server.png"  width="17" height="17">
+
+
+#### Windows Projects <img src="/Images/Windows.png"  width="20" height="20">
+- [Creating a Windows Bootable Drive <img src="/Images/Flashdrive.png"  width="27" height="27">](https://github.com/itzemanuelj/Creating-a-Windows-Bootable-Drive)
 
 
 ## <img  src="/Images/Certs.png" width="30" height="30"> Certifications
